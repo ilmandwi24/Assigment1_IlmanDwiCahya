@@ -26,6 +26,6 @@ Stack yang digunakan didalam tugas ini
 For this assigment, deployment web at Netlify :
 ![Netlify Logo](./netlifylogo.webp)
 
-[Netlify](@https://app.netlify.com/)
+[Netlify](https://app.netlify.com/)
 
 [Deploy Website](https://assignment1-landing-page.netlify.app/)
