@@ -15,7 +15,7 @@ Figma design for web
 
 ## Stack
 
-Stack yang digunakan didalam tugas ini
+Stack used in this assignment
 
 * Front-end - HTML, CSS, Javascript
 
